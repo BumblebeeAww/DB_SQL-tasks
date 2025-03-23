@@ -14,34 +14,37 @@
 Решение задач: Реализовать функционал для выполнения различных запросов и операций с данными.
 
 ## 3. Структура проекта
-
+```
 DB_SQL tasks
-│  
+│
 ├── 1_Transport
-│   ├── 1_Create Transport tables.sql
-│   ├── 1_Transport_main tables.sql
-│   ├── 1_Transport_task 1.sql
-│   └── 1_Transport_task 2.sql
+│ ├── 1_Create Transport tables.sql
+│ ├── 1_Transport_main tables.sql
+│ ├── 1_Transport_task 1.sql
+│ └── 1_Transport_task 2.sql
+│
 ├── 2_Races
-│   ├── 2_Create Races tables.sql
-│   ├── 2_Races_main tables.sql
-│   ├── 2_Races_task 1.sql
-│   ├── 2_Races_task 2.sql
-│   ├── 2_Races_task 3.sql
-│   ├── 2_Races_task 4.sql
-│   └── 2_Races_task 5.sql      
+│ ├── 2_Create Races tables.sql
+│ ├── 2_Races_main tables.sql
+│ ├── 2_Races_task 1.sql
+│ ├── 2_Races_task 2.sql
+│ ├── 2_Races_task 3.sql
+│ ├── 2_Races_task 4.sql
+│ └── 2_Races_task 5.sql
+│
 ├── 3_Hotels
-│   ├── 3_Create Hotels tables.sql
-│   ├── 3_Hotels_main tables.sql
-│   ├── 3_Hotels_task 1.sql
-│   ├── 3_Hotels_task 2.sql
-│   └── 3_Hotels_task 3.sql
+│ ├── 3_Create Hotels tables.sql
+│ ├── 3_Hotels_main tables.sql
+│ ├── 3_Hotels_task 1.sql
+│ ├── 3_Hotels_task 2.sql
+│ └── 3_Hotels_task 3.sql
+│
 └── 4_Organization
-    ├── 4_Create Organization tables.sql
-    ├── 4_Organization_main tables.sql
-    ├── 4_Organization_task 1.sql
-    ├── 4_Organization_task 2.sql
-    └── 4_Organization_task 3.sql
+  ├── 4_Create Organization tables.sql
+  ├── 4_Organization_main tables.sql
+  ├── 4_Organization_task 1.sql
+  ├── 4_Organization_task 2.sql
+  └── 4_Organization_task 3.sql```
 
 ## 4. Инструкция по запуску
 1) Создайте базу данных в PostgreSQL. Пример команды для создания базы данных:
