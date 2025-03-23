@@ -44,7 +44,8 @@ DB_SQL tasks
   ├── 4_Organization_main tables.sql
   ├── 4_Organization_task 1.sql
   ├── 4_Organization_task 2.sql
-  └── 4_Organization_task 3.sql```
+  └── 4_Organization_task 3.sql
+```
 
 ## 4. Инструкция по запуску
 1) Создайте базу данных в PostgreSQL. Пример команды для создания базы данных:
